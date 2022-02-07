@@ -8,9 +8,9 @@ b站仿搜索引擎样式首页风格，支持几种不同显示效果
 
 1. 安装 [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/) 或者 [Cascadea for Safari](https://cascadea.app/)
 
-2. [点击此处安装或更新样式](https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/index.user.css)
+2. [点击此处安装或更新样式](https://cdn.jsdelivr.net/gh/krakoo/bilibili-simple-home@master/index.user.css)
 
-3. [xStyle插件的在此处安装](https://ext.firefoxcn.net/xstyle/install/open.html?name=bilibili搜索引擎首页样式&code=https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/index.user.css)
+3. [xStyle插件的在此处安装](https://ext.firefoxcn.net/xstyle/install/open.html?name=bilibili搜索引擎首页样式&code=https://cdn.jsdelivr.net/gh/krakoo/bilibili-simple-home@master/index.user.css)
 
 ## 快速配置
 
@@ -18,24 +18,24 @@ b站仿搜索引擎样式首页风格，支持几种不同显示效果
 
 * [使用说明](#使用说明)
 
-* [Firefox 不显示毛玻璃问题](https://github.com/hakadao/bilibili-simple-home/issues/11)
+* [Firefox 不显示毛玻璃问题](https://github.com/karakoo/bilibili-simple-home/issues/11)
 
 ## 效果
 
 预设效果
-![预设效果](https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/preview/preview-1.png "预设效果")
+![预设效果](https://cdn.jsdelivr.net/gh/karakoo/bilibili-simple-home@master/preview/preview-1.png "预设效果")
 
 【样式1】半屏显示壁纸
-![【样式1】半屏显示壁纸](https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/preview/preview-2.png "【样式1】半屏显示壁纸")
+![【样式1】半屏显示壁纸](https://cdn.jsdelivr.net/gh/karakoo/bilibili-simple-home@master/preview/preview-2.png "【样式1】半屏显示壁纸")
 
 【样式2】半屏显示壁纸
-![【样式2】半屏显示壁纸](https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/preview/preview-3.png "【样式2】半屏显示壁纸")
+![【样式2】半屏显示壁纸](https://cdn.jsdelivr.net/gh/karakoo/bilibili-simple-home@master/preview/preview-3.png "【样式2】半屏显示壁纸")
 
 ## 使用说明
 
 点击齿轮图标及可进行样式设置
 
-![设置](https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/preview/setting-preview.png)
+![设置](https://cdn.jsdelivr.net/gh/karakoo/bilibili-simple-home@master/preview/setting-preview.png)
 
 ### 自定义背景
 
@@ -61,6 +61,6 @@ url(https://i.loli.net/2020/05/25/HxnieocyPIjWvQB.jpg)
 ### 你可以
 
 * 直接使用stylus插件点击`铅笔图标`进行编辑
-![设置](https://cdn.jsdelivr.net/gh/hakadao/bilibili-simple-home@master/preview/setting-preview.png)
+![设置](https://cdn.jsdelivr.net/gh/karakoo/bilibili-simple-home@master/preview/setting-preview.png)
 
 * 使用`xStyle`插件导入根目录下的`index.user.css`文件编辑
