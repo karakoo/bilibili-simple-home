@@ -715,6 +715,8 @@
          text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
      }
 
+     /*删除banner的图片*/
+     #bili-header-banner-img,
      /*删除banner上方我认为无用的链接（ε=ε=ε=┏(゜ロ゜;)┛逃）*/
      .nav-link .nav-link-ul .nav-link-item .link,
      /*季节logo*/
