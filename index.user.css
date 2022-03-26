@@ -1,7 +1,7 @@
  /* ==UserStyle==
 @name           bilibili搜索引擎首页样式
 @namespace      Karako-bilibili-simple-home
-@version        1.5.7
+@version        1.5.8
 @description    b站搜索引擎首页样式风格，支持几种不同的样式效果
 @author         Karako
 @homepageURL    https://github.com/karakoo/bilibili-simple-home
@@ -715,6 +715,8 @@
          text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
      }
 
+     /*删除banner视频*/
+     div.bili-header__banner > video,
      /*删除banner的图片*/
      #bili-header-banner-img,
      /*删除banner上方我认为无用的链接（ε=ε=ε=┏(゜ロ゜;)┛逃）*/
